@@ -1,0 +1,6 @@
+{
+  "name": "Tati Run",
+  "description": "A quirky 2D endless runner where you play as yourself avoiding poop and fighting ninjas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
